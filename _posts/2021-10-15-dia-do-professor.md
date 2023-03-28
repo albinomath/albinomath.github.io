@@ -16,7 +16,7 @@ author: albino
 description: A educação e as ciências têm o poder de recuperar o brilho das pessoas nos momentos mais difíceis. Como nos ensinou Paulo Freire, educação exige a esperança e a convicção de que a mudança é possível.
 ---
 
-{% include figure.html path="https://www.matheusalbino.com/assets/images/Assembleia-Unicamp.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.html path="https://www.matheusalbino.com/assets/img/Assembleia-Unicamp.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 <figcaption class="caption">Assembleia Universitária da Unicamp, em 15 de outubro de 2019. Primeira assembleia ocorreu em 1981, durante a ditadura militar. Imagem: APG Unicamp e SIARQ</figcaption>
 
 Hoje representei a Associação de Pós-Graduandas e Pós-Graduandos da Unicamp (APG Unicamp) na atividade realizada pela Associação Nacional de Pós-Graduandos (ANPG) pelo Dia Nacional de Mobilização em Defesa da Ciência. Hoje também é o dia do professor, e por isso começamos prestando homenagens a todos os educadores e educadoras. A educação e as ciências têm o poder de recuperar o brilho das pessoas nos momentos mais difíceis. <span class="evidence">Como nos ensinou Paulo Freire, educação exige comprometimento, saber escutar, reconhecer que a educação não é neutra e, mais do que isso, ter a esperança e a convicção de que a mudança é possível</span>.
