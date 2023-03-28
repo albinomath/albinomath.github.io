@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://albinomath.github.io//sitemap.xml
+Sitemap: https://www.matheusalbino.com//sitemap.xml
