@@ -11,7 +11,7 @@ tag:
 - História - Século XIX
 ---
 
-{% include figure.html path="https://www.matheusalbino.com/assets/images/Cemiterio-Vila-Formosa.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.html path="https://www.matheusalbino.com/assets/img/Cemiterio-Vila-Formosa.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 <figcaption class="caption">Cemitério de Vila Formosa, em São Paulo, durante a pandemia da Covid-19. Imagem: Reuters</figcaption>
 
 O sentimento de que a história se repete e ensina lições está enraizada no senso comum. Uma frase atribuída ao filósofo George Santayana nos lembra: "*aqueles que não conseguem se lembrar do passado estão condenados a repetí-lo*". Outra, de autoria atribuída a Mark Twain, nos diz que a história nunca se repete, *mas rima com frequência*.
