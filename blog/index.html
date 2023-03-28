@@ -13,10 +13,17 @@ pagination:
     after: 3  # The number of links after the current page
 ---
 
+<style>
+.red-text {
+  color: red-color;
+}
+</style>
+
+
 <div class="post">
 
   <div class="header-bar">
-    <h2  style="color: red-color;">{{ site.blog_name }}</h2>
+    <h2 class="red-text">{{ site.blog_name }}</h2>
     <h3>{{ site.blog_description }}</h3>
   </div>
 
