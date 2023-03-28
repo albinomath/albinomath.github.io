@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-BR"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.matheusalbino.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.matheusalbino.com/" rel="alternate" type="text/html" hreflang="pt-BR" /><updated>2023-03-28T19:22:12+00:00</updated><id>https://www.matheusalbino.com/feed.xml</id><title type="html">blank</title><subtitle>Economista | Mestre em Demografia
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-BR"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.matheusalbino.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.matheusalbino.com/" rel="alternate" type="text/html" hreflang="pt-BR" /><updated>2023-03-28T19:25:20+00:00</updated><id>https://www.matheusalbino.com/feed.xml</id><title type="html">blank</title><subtitle>Economista | Mestre em Demografia
 </subtitle><entry><title type="html">base de dados: Pacientes da Santa Casa de Misericórdia de Campinas, 1876-1900</title><link href="https://www.matheusalbino.com/blog/SCMC/" rel="alternate" type="text/html" title="base de dados: Pacientes da Santa Casa de Misericórdia de Campinas, 1876-1900" /><published>2023-03-24T00:00:00+00:00</published><updated>2023-03-24T00:00:00+00:00</updated><id>https://www.matheusalbino.com/blog/SCMC</id><content type="html" xml:base="https://www.matheusalbino.com/blog/SCMC/"><![CDATA[<figure>
 
   <picture>
@@ -128,13 +128,13 @@ de Filosofia e Ciências Humanas, Campinas - SP. Disponível em:
 
   <picture>
     
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="https://www.matheusalbino.com/assets/images/Cemiterio-Vila-Formosa-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="https://www.matheusalbino.com/assets/images/Cemiterio-Vila-Formosa-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="https://www.matheusalbino.com/assets/images/Cemiterio-Vila-Formosa-1400.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="https://www.matheusalbino.com/assets/img/Cemiterio-Vila-Formosa-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="https://www.matheusalbino.com/assets/img/Cemiterio-Vila-Formosa-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="https://www.matheusalbino.com/assets/img/Cemiterio-Vila-Formosa-1400.webp" />
     
 
     <!-- Fallback to the original file -->
-    <img src="https://www.matheusalbino.com/assets/images/Cemiterio-Vila-Formosa.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="https://www.matheusalbino.com/assets/img/Cemiterio-Vila-Formosa.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
