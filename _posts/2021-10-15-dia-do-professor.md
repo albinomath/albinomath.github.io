@@ -10,7 +10,7 @@ tag:
 - Educação
 - Notas
 
-category: memorandos
+category: notas
 author: Matheus Albino
 description: a educação e as ciências têm o poder de recuperar o brilho das pessoas nos momentos mais difíceis, exigem a esperança e a convicção de que a mudança é possível.
 ---
