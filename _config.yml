@@ -247,7 +247,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['unicamp', 'história', 'demografia', 'notas'] # this tags will be dispalyed on the front page of your blog
+display_tags: ['demografia', 'unicamp', 'história', 'base de dados', 'notas'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
