@@ -8,7 +8,9 @@ tag:
 - Unicamp
 - Conselho Universitário
 - Ditadura Militar
-- História - Século XX
+- História
+- Notas
+category: notas
 ---
 
 {% include figure.html path="https://www.matheusalbino.com/assets/img/Jarbas-Passarinho.png" class="img-fluid rounded z-depth-1" zoomable=true %}
