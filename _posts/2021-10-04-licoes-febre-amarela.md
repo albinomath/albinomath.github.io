@@ -6,9 +6,11 @@ giscus_comments: false
 date: 2021-10-04
 tag:
 - Mortalidade
+- Demografia
 - Febre amarela
 - Covid-19
-- História - Século XIX
+- História
+category: pesquisa
 ---
 
 {% include figure.html path="https://www.matheusalbino.com/assets/img/Cemiterio-Vila-Formosa.png" class="img-fluid rounded z-depth-1" zoomable=true %}
