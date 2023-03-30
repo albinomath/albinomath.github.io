@@ -4,16 +4,15 @@ layout: post
 date: 2020-02-20 14:00
 tag:
 - Santa Casa de Misericórdia
+- Demografia
 - Mortalidade
 - Escravidão
 - Campinas
-- História - Século XIX
+- História
 star: false
-category: blog
-author: albino
-description: Nesta pesquisa investiguei aspectos da mortalidade e da morbidade da população escravizada e livre, nacional e estrangeira em Campinas no final do século XIX.
-lang: pt
-lang-ref: welcome-to-my-blog
+category: pesquisa
+author: Matheus Albino
+description: investiguei aspectos da mortalidade e da morbidade da população escravizada e livre, nacional e estrangeira em Campinas no final do século XIX.
 ---
 
 Nesta pesquisa, desenvolvida durante o mestrado em Demografia na Unicamp, investiguei aspectos da mortalidade e da morbidade da população escravizada e livre, nacional e estrangeira em Campinas no final do século XIX.
