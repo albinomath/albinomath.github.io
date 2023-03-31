@@ -1,108 +1,577 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://www.matheusalbino.com/blog/revelando-a-morte/</loc>
-<lastmod>2020-02-20T14:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/jarbas-passarinho/</loc>
-<lastmod>2021-09-29T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/licoes-febre-amarela/</loc>
-<lastmod>2021-10-04T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/dia-do-professor/</loc>
-<lastmod>2021-10-15T12:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/SCMC/</loc>
-<lastmod>2023-03-24T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/cv/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/news/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/projetos/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/publications/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/repositories/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/disciplinas/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/tag/santa-casa-de-miseric%C3%B3rdia/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/tag/demografia/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/tag/mortalidade/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/tag/escravid%C3%A3o/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/tag/campinas/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/tag/hist%C3%B3ria/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/tag/unicamp/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/tag/conselho-universit%C3%A1rio/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/tag/ditadura-militar/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/tag/notas/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/tag/febre-amarela/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/tag/covid-19/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/tag/ci%C3%AAncia-e-tecnologia/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/tag/educa%C3%A7%C3%A3o/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/tag/base-de-dados/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/category/pesquisa/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/category/notas/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/2020/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/2021/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/blog/2023/</loc>
-</url>
-<url>
-<loc>https://www.matheusalbino.com/SCMC.html</loc>
-<lastmod>2023-03-31T12:28:06+00:00</lastmod>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/SCMC/</loc>
+      
+        <lastmod>2023-03-24T00:00:00+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/dia-do-professor/</loc>
+      
+        <lastmod>2021-10-15T12:00:00+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/licoes-febre-amarela/</loc>
+      
+        <lastmod>2021-10-04T00:00:00+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/jarbas-passarinho/</loc>
+      
+        <lastmod>2021-09-29T00:00:00+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/revelando-a-morte/</loc>
+      
+        <lastmod>2020-02-20T14:00:00+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/404.html</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/cv/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/assets/css/main.css</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/news/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/projetos/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/publications/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/repositories/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/robots.txt</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/disciplinas/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/tag/santa-casa-de-miseric%C3%B3rdia/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/tag/demografia/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/tag/mortalidade/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/tag/escravid%C3%A3o/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/tag/campinas/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/tag/hist%C3%B3ria/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/tag/unicamp/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/tag/conselho-universit%C3%A1rio/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/tag/ditadura-militar/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/tag/notas/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/tag/febre-amarela/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/tag/covid-19/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/tag/ci%C3%AAncia-e-tecnologia/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/tag/educa%C3%A7%C3%A3o/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/tag/base-de-dados/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/category/pesquisa/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/category/notas/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/2020/</loc>
+      
+        <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/2021/</loc>
+      
+        <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/2023/</loc>
+      
+        <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/feed.xml</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/blog/</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://www.matheusalbino.com/assets/css/main.css.map</loc>
+      
+        <lastmod>2023-03-31T12:43:41+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
 </urlset>
