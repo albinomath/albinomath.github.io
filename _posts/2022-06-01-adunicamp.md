@@ -14,8 +14,8 @@ tag:
 category: notas
 ---
 
-Agradeço o convite para estar nessa cerimônia, e em nome da gestão “Paulo Freire” da
-Associação central de Pós-Graduação da Unicamp, saudar a nova gestão da ADunicamp, que
+Primeiro de junho de 2022. Agradeço o convite para estar nessa cerimônia, e em nome da gestão “Paulo Freire” da
+Associação Central de Pós-Graduação da Unicamp, saudar a nova gestão da ADunicamp, que
 hoje recebe o resultado do intenso trabalho da antiga diretoria e das que vieram antes.
 
 Minha mensagem hoje é <span class="evidence">reafirmar a importância de entidades
