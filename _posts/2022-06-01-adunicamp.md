@@ -23,7 +23,7 @@ representativas como a ADunicamp e desejar um bom caminho para a nova gestão</s
 para isso, vejo que não preciso dizer que a luta por uma universidade pública, de
 qualidade, socialmente referenciada é contínua e incansável.
 
-Os estudantes, em especial os da pós-graduação passam muito rápido pela universidade em
+Os estudantes, em especial os da pós-graduação, passam muito rápido pela universidade em
 comparação aos docentes. E para responder isso, costumo dizer que os primeiros 200 anos da
 universidade pública são sempre os mais difíceis. Temos a sorte e o desafio de vivermos os
 primeiros 200 anos da Unicamp.
