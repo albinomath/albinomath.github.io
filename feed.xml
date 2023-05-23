@@ -1,141 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-BR"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.matheusalbino.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.matheusalbino.com/" rel="alternate" type="text/html" hreflang="pt-BR" /><updated>2023-05-23T12:33:19+00:00</updated><id>https://www.matheusalbino.com/feed.xml</id><title type="html">blank</title><subtitle>Economista | Mestre em Demografia
-</subtitle><entry><title type="html">base de dados: Pacientes da Santa Casa de Misericórdia de Campinas, 1876-1900</title><link href="https://www.matheusalbino.com/blog/SCMC/" rel="alternate" type="text/html" title="base de dados: Pacientes da Santa Casa de Misericórdia de Campinas, 1876-1900" /><published>2023-03-24T00:00:00+00:00</published><updated>2023-03-24T00:00:00+00:00</updated><id>https://www.matheusalbino.com/blog/SCMC</id><content type="html" xml:base="https://www.matheusalbino.com/blog/SCMC/"><![CDATA[<figure>
-
-  <picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="https://www.matheusalbino.com/assets/img/matricula-min-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="https://www.matheusalbino.com/assets/img/matricula-min-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="https://www.matheusalbino.com/assets/img/matricula-min-1400.webp" />
-    
-
-    <!-- Fallback to the original file -->
-    <img src="https://www.matheusalbino.com/assets/img/matricula-min.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
-
-  </picture>
-
-</figure>
-
-<figcaption class="caption">Livro de Matrículas da Santa Casa de Misericórdia</figcaption>
-
-<p>Esta base de dados foi elaborada a partir do cruzamento de informações
-das Matrículas de Enfermos do Hospital da Misericórdia de Campinas com
-os Livros de Altas de Pacientes e o Assentamento de Óbitos. Trata-se de
-um trabalho realizado no âmbito da dissertação de mestrado <a href="https://repositorio.unicamp.br/Busca/Download?codigoArquivo=494610"><strong>Revelando
-a doença e a morte: morbidade e mortalidade em Campinas,
-1875-1900</strong></a>.</p>
-
-<p>O cruzamento desses registros com os Livros de Altas e Óbitos foi
-realizado para cada paciente por meio da data de entrada, saída e pelo
-número de ordem atribuído nas enfermarias.</p>
-
-<p>Composta por 14.350 registros de pacientes, seu recorte temporal abrange
-desde o primeiro atendido no hospital, o escravo Manoel Xavier de
-Oliveira, em 3 de outubro de 1876 até Prudêncio Antônio, em 31 de
-dezembro de 1900. Não foram encontrados os registros de enfermos curados
-na enfermaria especial criada em 1889 para vítimas da febre amarela.
-Somente os óbitos foram identificados.</p>
-
-<p>Os livros de matrículas, altas e óbitos correspondem ao registro de
-fluxo dos indivíduos que passaram pelo hospital e aqueles que
-permaneceram internados em tratamento. Os nomes dos pacientes não foram
-levantados, mas podem ser recuperados pelo número de ordem nos livros
-originais. A série é composta por quatro volumes sob a guarda do Centro
-de Memória-Unicamp (CMU).</p>
-
-<h2 id="variáveis-disponíveis">Variáveis disponíveis</h2>
-
-<ul>
-  <li><strong>sexo</strong>: Sexo do paciente</li>
-  <li><strong>idade</strong>: Idade declarada</li>
-  <li><strong>cor</strong>: Cor declarada</li>
-  <li><strong>nac</strong>: Nacionalidade declarada</li>
-  <li><strong>res</strong>: Local de residência declarado</li>
-  <li><strong>mar</strong>: Estado conjugal</li>
-  <li><strong>ocup</strong>: Ocupação do paciente</li>
-  <li><strong>remet</strong>: Pessoa responsável que enviou o paciente para a Santa Casa</li>
-  <li><strong>cat</strong>: Categoria de entrada do paciente, entre “Escravo”, “Pobre”,
-“Pensionista” e “Militar” (derivada de <strong>remet</strong>, ver Albino (2020).)</li>
-  <li><strong>molestia</strong>: Causa de internação/morte principal (selecionada entre
-outras circunstanciais, ver Albino (2020).)</li>
-  <li><strong>entrada</strong>: Data de entrada da enfermaria</li>
-  <li><strong>saida</strong>: Data de saída da enfermaria</li>
-  <li><strong>obs</strong>: Estado final do paciente na enfermaria</li>
-</ul>
-
-<h2 id="como-citar">Como citar?</h2>
-
-<ol>
-  <li>Em figuras e tabelas:
-    <ul>
-      <li><em>Dados extraídos de Albino (2020), a partir das Matrículas de Enfermos
-da Santa Casa de Misericórdia de Campinas.</em></li>
-    </ul>
-  </li>
-  <li>Nas referências bibliográficas:</li>
-</ol>
-
-<ul>
-  <li>ALBINO, Matheus Alves. <strong>Revelando a doença e a morte: morbidade e
-mortalidade em Campinas, 1875-1900</strong>. 2020. 1 recurso online (168 p.)
-Dissertação (mestrado) - Universidade Estadual de Campinas, Instituto
-de Filosofia e Ciências Humanas, Campinas - SP. Disponível em:
-<a href="https://repositorio.unicamp.br/Busca/Download?codigoArquivo=494610">https://repositorio.unicamp.br/Busca/Download?codigoArquivo=494610</a></li>
-</ul>
-
-<p><!-- <iframe src="https://www.matheusalbino.com/SCMC_DT.html" title="Base de Dados: Pacientes da Santa Casa de Misericórdia" style="position: relative; height: auto; width: 100%; border: none; margin: 40px; padding: 40px"></iframe>  --></p>
-
-<div class="l-page">
-<div style="position:relative; width:100%; height:0px; padding-bottom:350%;">
-    <iframe style="position:absolute; left:0; top:0; width:100%; height:100%; border: none" src="https://www.matheusalbino.com/SCMC.html">
-    </iframe>
-</div>
-</div>
-
-<!-- <object data="https://www.matheusalbino.com/SCMC_DT.html" style="position:relative; width:100%; height:0px; padding-bottom:500%">
-     <iframe src="https://www.matheusalbino.com/SCMC_DT.html" title="Base de Dados: Pacientes da Santa Casa de Misericórdia" style="position: relative; height: auto; width: 100%; border: none; margin: 40px; padding: 40px"></iframe> 
-    Error: Embedded data could not be displayed.
-</object> -->]]></content><author><name></name></author><category term="pesquisa" /><category term="Base de dados" /><category term="Santa Casa de Misericórdia" /><category term="Mortalidade" /><category term="Demografia" /><category term="Escravidão" /><category term="Campinas" /><summary type="html"><![CDATA[Esta base de dados foi elaborada a partir do cruzamento de informações das Matrículas de Enfermos do Hospital da Misericórdia de Campinas com os Livros de Altas de Pacientes e o Assentamento de Óbitos.]]></summary></entry><entry><title type="html">saudação à nova gestão da ADunicamp</title><link href="https://www.matheusalbino.com/blog/adunicamp/" rel="alternate" type="text/html" title="saudação à nova gestão da ADunicamp" /><published>2022-06-01T00:00:00+00:00</published><updated>2022-06-01T00:00:00+00:00</updated><id>https://www.matheusalbino.com/blog/adunicamp</id><content type="html" xml:base="https://www.matheusalbino.com/blog/adunicamp/"><![CDATA[<p>Primeiro de junho de 2022. Agradeço o convite para estar nessa cerimônia, e em nome da gestão “Paulo Freire” da
-Associação Central de Pós-Graduação da Unicamp, saudar a nova gestão da ADunicamp, que
-hoje recebe o resultado do intenso trabalho da antiga diretoria e das que vieram antes.</p>
-
-<p>Minha mensagem hoje é <span class="evidence">reafirmar a importância de entidades
-representativas como a ADunicamp e desejar um bom caminho para a nova gestão</span>. E
-para isso, vejo que não preciso dizer que a luta por uma universidade pública, de
-qualidade, socialmente referenciada é contínua e incansável.</p>
-
-<p>Os estudantes, em especial os da pós-graduação, passam muito rápido pela universidade em
-comparação aos docentes. E para responder isso, costumo dizer que os primeiros 200 anos da
-universidade pública são sempre os mais difíceis. Temos a sorte e o desafio de vivermos os
-primeiros 200 anos da Unicamp.</p>
-
-<p>Quando comecei a representação discente na USP Ribeirão Preto há 6 anos, tinha a vontade
-de fazer uma representação bastante democrática. Estávamos discutindo a adesão da USP ao
-SISU e tive a ideia de consultar os alunos sobre o que eles achavam de destinar 15% das
-vagas para estudantes de escolas públicas pretos, pardos e indígenas.</p>
-
-<p>Os estudantes disseram em sua maioria que não queriam as vagas. E eu olhei para o lado e
-vi pessoas que haviam passado no vestibular, poucos de escolas públicas, poucos negros,
-nenhum indígena. E comecei a perceber que <span class="evidence">representar nem sempre é
-dar voz apenas ao que a maioria deseja. Às vezes isso também significa representar os que
-vieram antes de nós e os que estão por vir</span>. E eles vieram!</p>
-
-<p>Foi assim que vi o rosto da universidade mudar. Hoje, a universidade pública é muito mais
-universidade do que quando passei no vestibular. Também é mais pública, mas está sempre
-ameaçada. Acredito que os retrocessos que estamos enfrentando na educação e em todas as
-áreas vão ser superados se transformarmos as reivindicações e particularidades de cada
-categoria em uma luta comum.</p>
-
-<p>A luta comum envolve a própria democracia, condições dignas de trabalho, por salário
-justo, por valorização do serviço público e contra a precarização das relações de
-trabalho. Quando pensamos numa universidade com autonomia, pensamos nos que virão. Quando
-queremos melhores condições de trabalho, nós pensamos no que virá. Esse é o trabalho de
-representar. Temos uma obrigação conjunta de dialogo constante, de união entre os setores
-da universidade e de colocar um fim no sofrimento que está atingindo a população
-brasileira. <span class="evidence">A educação e a ciência são o caminho</span>.</p>
-
-<p>Por isso saúdo a disposição da nova diretoria para continuarmos a luta pela universidade,
-pela educação, pela autonomia universitária, pela democracia. A Unicamp saberá responder,
-como sempre soube, todos esses ataques à altura. Viva a ADunicamp!</p>]]></content><author><name></name></author><category term="notas" /><category term="Unicamp" /><category term="ADunicamp" /><category term="Educação" /><category term="Campinas" /><category term="Ciência e Tecnologia" /><category term="Notas" /><summary type="html"><![CDATA[representando a gestão "Paulo Freire" no evento de posse da nova diretoria da associação de docentes]]></summary></entry><entry><title type="html">convite | Pesquisadores negras e negros para a reconstrução do Brasil</title><link href="https://www.matheusalbino.com/blog/revista-da-anpg/" rel="alternate" type="text/html" title="convite | Pesquisadores negras e negros para a reconstrução do Brasil" /><published>2022-06-01T00:00:00+00:00</published><updated>2022-06-01T00:00:00+00:00</updated><id>https://www.matheusalbino.com/blog/revista-da-anpg</id><content type="html" xml:base="https://www.matheusalbino.com/blog/revista-da-anpg/"><![CDATA[<p>Com a retomada dos trabalhos da <em>Revista da ANPG – Ciência, Tecnologia e Políticas Educacionais</em>, informamos que está aberta a chamada para Edição Especial <em>Pesquisadoras negras e negros para a reconstrução do Brasil</em> com objetivo de destacar a produção de pesquisadores negras e negros de todas as áreas do conhecimento. <span class="evidence">Convidamos pesquisadores de todas as áreas do conhecimento que tenham interesse e disponibilidade para colaborar, seja como autores ou como avaliadores, contribuindo com o processo de divulgação da produção na pós-graduação</span>. A edição anterior da Revista, <a href="https://www.anpg.org.br/08/07/2022/mulheres-cientistas-e-a-pandemia/">Mulheres e Mães Pesquisadoras em Tempos de Covid-19</a>, pode ser encontrada no site da ANPG.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-BR"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.matheusalbino.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.matheusalbino.com/" rel="alternate" type="text/html" hreflang="pt-BR" /><updated>2023-05-23T12:35:59+00:00</updated><id>https://www.matheusalbino.com/feed.xml</id><title type="html">blank</title><subtitle>Economista | Mestre em Demografia
+</subtitle><entry><title type="html">convite | Pesquisadores negras e negros para a reconstrução do Brasil</title><link href="https://www.matheusalbino.com/blog/revista-da-anpg/" rel="alternate" type="text/html" title="convite | Pesquisadores negras e negros para a reconstrução do Brasil" /><published>2023-05-23T00:00:00+00:00</published><updated>2023-05-23T00:00:00+00:00</updated><id>https://www.matheusalbino.com/blog/revista-da-anpg</id><content type="html" xml:base="https://www.matheusalbino.com/blog/revista-da-anpg/"><![CDATA[<p>Com a retomada dos trabalhos da <em>Revista da ANPG – Ciência, Tecnologia e Políticas Educacionais</em>, informamos que está aberta a chamada para Edição Especial <em>Pesquisadoras negras e negros para a reconstrução do Brasil</em> com objetivo de destacar a produção de pesquisadores negras e negros de todas as áreas do conhecimento. <span class="evidence">Convidamos pesquisadores de todas as áreas do conhecimento que tenham interesse e disponibilidade para colaborar, seja como autores ou como avaliadores, contribuindo com o processo de divulgação da produção na pós-graduação</span>. A edição anterior da Revista, <a href="https://www.anpg.org.br/08/07/2022/mulheres-cientistas-e-a-pandemia/">Mulheres e Mães Pesquisadoras em Tempos de Covid-19</a>, pode ser encontrada no site da ANPG.</p>
 
 <p>Também convidamos as Associações de Pós-Graduandas e Pós-Graduandos (APGs), Comissões Pró-APG, entidades estudantis e estudantes para a seção especial Relatos de Experiência. Esse espaço será aberto para estudantes de graduação e de pós-graduação relatarem suas vivências, discussões sobre políticas de acesso e permanência e principais demandas locais, contribuindo para a construção de conhecimento e socialização de experiências de mobilização dos estudantes.</p>
 
@@ -271,7 +135,143 @@ como sempre soube, todos esses ataques à altura. Viva a ADunicamp!</p>]]></cont
 <ul>
   <li><a href="http://issuu.com/anpg/docs/revista_anpg_v2.0">Revista da ANPG (v. 2, n. 1 - 2010)</a></li>
   <li><a href="http://issuu.com/anpg/docs/revista_anpg_v1.0">Revista da ANPG (v. 1, n. 1 - 2009)</a></li>
-</ul>]]></content><author><name></name></author><category term="pesquisa" /><category term="Unicamp" /><category term="Educação" /><category term="Ciência e Tecnologia" /><category term="Notas" /><summary type="html"><![CDATA[chamada para trabalhos e pareceristas da Revista da ANPG]]></summary></entry><entry><title type="html">dia do professor: a educação e a ciência vão recuperar nosso brilho</title><link href="https://www.matheusalbino.com/blog/dia-do-professor/" rel="alternate" type="text/html" title="dia do professor: a educação e a ciência vão recuperar nosso brilho" /><published>2021-10-15T12:00:00+00:00</published><updated>2021-10-15T12:00:00+00:00</updated><id>https://www.matheusalbino.com/blog/dia-do-professor</id><content type="html" xml:base="https://www.matheusalbino.com/blog/dia-do-professor/"><![CDATA[<figure>
+</ul>]]></content><author><name></name></author><category term="pesquisa" /><category term="Unicamp" /><category term="Educação" /><category term="Ciência e Tecnologia" /><category term="Notas" /><summary type="html"><![CDATA[chamada para trabalhos e pareceristas da Revista da ANPG]]></summary></entry><entry><title type="html">base de dados: Pacientes da Santa Casa de Misericórdia de Campinas, 1876-1900</title><link href="https://www.matheusalbino.com/blog/SCMC/" rel="alternate" type="text/html" title="base de dados: Pacientes da Santa Casa de Misericórdia de Campinas, 1876-1900" /><published>2023-03-24T00:00:00+00:00</published><updated>2023-03-24T00:00:00+00:00</updated><id>https://www.matheusalbino.com/blog/SCMC</id><content type="html" xml:base="https://www.matheusalbino.com/blog/SCMC/"><![CDATA[<figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="https://www.matheusalbino.com/assets/img/matricula-min-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="https://www.matheusalbino.com/assets/img/matricula-min-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="https://www.matheusalbino.com/assets/img/matricula-min-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="https://www.matheusalbino.com/assets/img/matricula-min.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+<figcaption class="caption">Livro de Matrículas da Santa Casa de Misericórdia</figcaption>
+
+<p>Esta base de dados foi elaborada a partir do cruzamento de informações
+das Matrículas de Enfermos do Hospital da Misericórdia de Campinas com
+os Livros de Altas de Pacientes e o Assentamento de Óbitos. Trata-se de
+um trabalho realizado no âmbito da dissertação de mestrado <a href="https://repositorio.unicamp.br/Busca/Download?codigoArquivo=494610"><strong>Revelando
+a doença e a morte: morbidade e mortalidade em Campinas,
+1875-1900</strong></a>.</p>
+
+<p>O cruzamento desses registros com os Livros de Altas e Óbitos foi
+realizado para cada paciente por meio da data de entrada, saída e pelo
+número de ordem atribuído nas enfermarias.</p>
+
+<p>Composta por 14.350 registros de pacientes, seu recorte temporal abrange
+desde o primeiro atendido no hospital, o escravo Manoel Xavier de
+Oliveira, em 3 de outubro de 1876 até Prudêncio Antônio, em 31 de
+dezembro de 1900. Não foram encontrados os registros de enfermos curados
+na enfermaria especial criada em 1889 para vítimas da febre amarela.
+Somente os óbitos foram identificados.</p>
+
+<p>Os livros de matrículas, altas e óbitos correspondem ao registro de
+fluxo dos indivíduos que passaram pelo hospital e aqueles que
+permaneceram internados em tratamento. Os nomes dos pacientes não foram
+levantados, mas podem ser recuperados pelo número de ordem nos livros
+originais. A série é composta por quatro volumes sob a guarda do Centro
+de Memória-Unicamp (CMU).</p>
+
+<h2 id="variáveis-disponíveis">Variáveis disponíveis</h2>
+
+<ul>
+  <li><strong>sexo</strong>: Sexo do paciente</li>
+  <li><strong>idade</strong>: Idade declarada</li>
+  <li><strong>cor</strong>: Cor declarada</li>
+  <li><strong>nac</strong>: Nacionalidade declarada</li>
+  <li><strong>res</strong>: Local de residência declarado</li>
+  <li><strong>mar</strong>: Estado conjugal</li>
+  <li><strong>ocup</strong>: Ocupação do paciente</li>
+  <li><strong>remet</strong>: Pessoa responsável que enviou o paciente para a Santa Casa</li>
+  <li><strong>cat</strong>: Categoria de entrada do paciente, entre “Escravo”, “Pobre”,
+“Pensionista” e “Militar” (derivada de <strong>remet</strong>, ver Albino (2020).)</li>
+  <li><strong>molestia</strong>: Causa de internação/morte principal (selecionada entre
+outras circunstanciais, ver Albino (2020).)</li>
+  <li><strong>entrada</strong>: Data de entrada da enfermaria</li>
+  <li><strong>saida</strong>: Data de saída da enfermaria</li>
+  <li><strong>obs</strong>: Estado final do paciente na enfermaria</li>
+</ul>
+
+<h2 id="como-citar">Como citar?</h2>
+
+<ol>
+  <li>Em figuras e tabelas:
+    <ul>
+      <li><em>Dados extraídos de Albino (2020), a partir das Matrículas de Enfermos
+da Santa Casa de Misericórdia de Campinas.</em></li>
+    </ul>
+  </li>
+  <li>Nas referências bibliográficas:</li>
+</ol>
+
+<ul>
+  <li>ALBINO, Matheus Alves. <strong>Revelando a doença e a morte: morbidade e
+mortalidade em Campinas, 1875-1900</strong>. 2020. 1 recurso online (168 p.)
+Dissertação (mestrado) - Universidade Estadual de Campinas, Instituto
+de Filosofia e Ciências Humanas, Campinas - SP. Disponível em:
+<a href="https://repositorio.unicamp.br/Busca/Download?codigoArquivo=494610">https://repositorio.unicamp.br/Busca/Download?codigoArquivo=494610</a></li>
+</ul>
+
+<p><!-- <iframe src="https://www.matheusalbino.com/SCMC_DT.html" title="Base de Dados: Pacientes da Santa Casa de Misericórdia" style="position: relative; height: auto; width: 100%; border: none; margin: 40px; padding: 40px"></iframe>  --></p>
+
+<div class="l-page">
+<div style="position:relative; width:100%; height:0px; padding-bottom:350%;">
+    <iframe style="position:absolute; left:0; top:0; width:100%; height:100%; border: none" src="https://www.matheusalbino.com/SCMC.html">
+    </iframe>
+</div>
+</div>
+
+<!-- <object data="https://www.matheusalbino.com/SCMC_DT.html" style="position:relative; width:100%; height:0px; padding-bottom:500%">
+     <iframe src="https://www.matheusalbino.com/SCMC_DT.html" title="Base de Dados: Pacientes da Santa Casa de Misericórdia" style="position: relative; height: auto; width: 100%; border: none; margin: 40px; padding: 40px"></iframe> 
+    Error: Embedded data could not be displayed.
+</object> -->]]></content><author><name></name></author><category term="pesquisa" /><category term="Base de dados" /><category term="Santa Casa de Misericórdia" /><category term="Mortalidade" /><category term="Demografia" /><category term="Escravidão" /><category term="Campinas" /><summary type="html"><![CDATA[Esta base de dados foi elaborada a partir do cruzamento de informações das Matrículas de Enfermos do Hospital da Misericórdia de Campinas com os Livros de Altas de Pacientes e o Assentamento de Óbitos.]]></summary></entry><entry><title type="html">saudação à nova gestão da ADunicamp</title><link href="https://www.matheusalbino.com/blog/adunicamp/" rel="alternate" type="text/html" title="saudação à nova gestão da ADunicamp" /><published>2022-06-01T00:00:00+00:00</published><updated>2022-06-01T00:00:00+00:00</updated><id>https://www.matheusalbino.com/blog/adunicamp</id><content type="html" xml:base="https://www.matheusalbino.com/blog/adunicamp/"><![CDATA[<p>Primeiro de junho de 2022. Agradeço o convite para estar nessa cerimônia, e em nome da gestão “Paulo Freire” da
+Associação Central de Pós-Graduação da Unicamp, saudar a nova gestão da ADunicamp, que
+hoje recebe o resultado do intenso trabalho da antiga diretoria e das que vieram antes.</p>
+
+<p>Minha mensagem hoje é <span class="evidence">reafirmar a importância de entidades
+representativas como a ADunicamp e desejar um bom caminho para a nova gestão</span>. E
+para isso, vejo que não preciso dizer que a luta por uma universidade pública, de
+qualidade, socialmente referenciada é contínua e incansável.</p>
+
+<p>Os estudantes, em especial os da pós-graduação, passam muito rápido pela universidade em
+comparação aos docentes. E para responder isso, costumo dizer que os primeiros 200 anos da
+universidade pública são sempre os mais difíceis. Temos a sorte e o desafio de vivermos os
+primeiros 200 anos da Unicamp.</p>
+
+<p>Quando comecei a representação discente na USP Ribeirão Preto há 6 anos, tinha a vontade
+de fazer uma representação bastante democrática. Estávamos discutindo a adesão da USP ao
+SISU e tive a ideia de consultar os alunos sobre o que eles achavam de destinar 15% das
+vagas para estudantes de escolas públicas pretos, pardos e indígenas.</p>
+
+<p>Os estudantes disseram em sua maioria que não queriam as vagas. E eu olhei para o lado e
+vi pessoas que haviam passado no vestibular, poucos de escolas públicas, poucos negros,
+nenhum indígena. E comecei a perceber que <span class="evidence">representar nem sempre é
+dar voz apenas ao que a maioria deseja. Às vezes isso também significa representar os que
+vieram antes de nós e os que estão por vir</span>. E eles vieram!</p>
+
+<p>Foi assim que vi o rosto da universidade mudar. Hoje, a universidade pública é muito mais
+universidade do que quando passei no vestibular. Também é mais pública, mas está sempre
+ameaçada. Acredito que os retrocessos que estamos enfrentando na educação e em todas as
+áreas vão ser superados se transformarmos as reivindicações e particularidades de cada
+categoria em uma luta comum.</p>
+
+<p>A luta comum envolve a própria democracia, condições dignas de trabalho, por salário
+justo, por valorização do serviço público e contra a precarização das relações de
+trabalho. Quando pensamos numa universidade com autonomia, pensamos nos que virão. Quando
+queremos melhores condições de trabalho, nós pensamos no que virá. Esse é o trabalho de
+representar. Temos uma obrigação conjunta de dialogo constante, de união entre os setores
+da universidade e de colocar um fim no sofrimento que está atingindo a população
+brasileira. <span class="evidence">A educação e a ciência são o caminho</span>.</p>
+
+<p>Por isso saúdo a disposição da nova diretoria para continuarmos a luta pela universidade,
+pela educação, pela autonomia universitária, pela democracia. A Unicamp saberá responder,
+como sempre soube, todos esses ataques à altura. Viva a ADunicamp!</p>]]></content><author><name></name></author><category term="notas" /><category term="Unicamp" /><category term="ADunicamp" /><category term="Educação" /><category term="Campinas" /><category term="Ciência e Tecnologia" /><category term="Notas" /><summary type="html"><![CDATA[representando a gestão "Paulo Freire" no evento de posse da nova diretoria da associação de docentes]]></summary></entry><entry><title type="html">dia do professor: a educação e a ciência vão recuperar nosso brilho</title><link href="https://www.matheusalbino.com/blog/dia-do-professor/" rel="alternate" type="text/html" title="dia do professor: a educação e a ciência vão recuperar nosso brilho" /><published>2021-10-15T12:00:00+00:00</published><updated>2021-10-15T12:00:00+00:00</updated><id>https://www.matheusalbino.com/blog/dia-do-professor</id><content type="html" xml:base="https://www.matheusalbino.com/blog/dia-do-professor/"><![CDATA[<figure>
 
   <picture>
     
