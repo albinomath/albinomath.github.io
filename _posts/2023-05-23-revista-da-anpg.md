@@ -20,7 +20,7 @@ Também convidamos as Associações de Pós-Graduandas e Pós-Graduandos (APGs),
 
 - [Chamada permanente de pareceristas: Revista ANPG](https://drive.google.com/file/d/1WNKZCHuq-oYNi6qd5cVyQmijMt3-HuF8/view?usp=sharing)
 
-### Apresentação
+### Sobre a revista
 
 A *Revista da ANPG: Ciência, Tecnologia e Políticas Educacionais* (ISSN 2317-4854) é a publicação acadêmica e científica da Associação Nacional de Pós-Graduandos (ANPG), que tem como missão contribuir para o desenvolvimento científico e tecnológico do nosso país, divulgando as pesquisas de pós-graduandas/os das mais diversas áreas do conhecimento. 
 
