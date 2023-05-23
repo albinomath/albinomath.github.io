@@ -1,5 +1,5 @@
 ---
-title: "revelando a doença e a morte: morbidade e mortalidade em Campinas, 1875-1900"
+title: "resumo | relevando a doença e a morte: morbidade e mortalidade em Campinas, 1875-1900"
 layout: post
 date: 2020-02-20 14:00
 tag:
