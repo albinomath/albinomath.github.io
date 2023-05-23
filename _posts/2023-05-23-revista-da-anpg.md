@@ -5,7 +5,7 @@ description: chamada para trabalhos e pareceristas da Revista da ANPG
 giscus_comments: false
 date: 2023-05-23
 tag:
-- Unicamp
+- Pós-graduação
 - Educação
 - Ciência e Tecnologia
 - Notas
