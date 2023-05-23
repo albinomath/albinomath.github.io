@@ -14,12 +14,7 @@ category: pesquisa
 
 Com a retomada dos trabalhos da *Revista da ANPG – Ciência, Tecnologia e Políticas Educacionais*, informamos que está aberta a chamada para Edição Especial *Pesquisadoras negras e negros para a reconstrução do Brasil* com objetivo de destacar a produção de pesquisadores negras e negros de todas as áreas do conhecimento. <span class="evidence">Convidamos pesquisadores de todas as áreas do conhecimento que tenham interesse e disponibilidade para colaborar, seja como autores ou como avaliadores, contribuindo com o processo de divulgação da produção na pós-graduação</span>. A edição anterior da Revista, [Mulheres e Mães Pesquisadoras em Tempos de Covid-19](https://www.anpg.org.br/08/07/2022/mulheres-cientistas-e-a-pandemia/), pode ser encontrada no site da ANPG. 
 
-Também convidamos as Associações de Pós-Graduandas e Pós-Graduandos (APGs), Comissões Pró-APG, entidades estudantis e estudantes para a seção especial Relatos de Experiência. <span class="evidence">Esse espaço será aberto para estudantes de graduação e de pós-graduação</span> relatarem suas vivências, discussões sobre políticas de acesso e permanência e principais demandas locais, contribuindo para a construção de conhecimento e socialização de experiências de mobilização dos estudantes.
-
-Confira o cronograma: 
-
-- Prazo Final para Avaliação: 15/10
-- Publicação da edição: Novembro/Dezembro 2023
+Também convidamos as Associações de Pós-Graduandas e Pós-Graduandos (APGs), Comissões Pró-APG, entidades estudantis e estudantes para a seção especial Relatos de Experiência. Esse espaço será aberto para estudantes de graduação e de pós-graduação. relatarem suas vivências, discussões sobre políticas de acesso e permanência e principais demandas locais, contribuindo para a construção de conhecimento e socialização de experiências de mobilização dos estudantes. <span class="evidence">O prazo final previsto para avaliação dos trabalhos é 15/10, para publicação da edição em Novembro ou Dezembro de 2023</span>. 
 
 - [Chamada para trabalhos: Pesquisadoras negras e negros para a reconstrução do Brasil](https://drive.google.com/file/d/1m9LbhdxokXBzKF2eLJrbymaUtti0bACz/view?usp=sharing)
 
