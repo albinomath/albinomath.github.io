@@ -3,7 +3,7 @@ layout: post
 title: convite | Pesquisadores negras e negros para a reconstrução do Brasil
 description: chamada para trabalhos e pareceristas da Revista da ANPG
 giscus_comments: false
-date: 2022-06-01
+date: 2023-05-23
 tag:
 - Unicamp
 - Educação
