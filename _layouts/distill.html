@@ -1,23 +1,5 @@
 <!DOCTYPE html>
 
-{% assign m = include.date | date: "%-m" %}
-{{ include.date | date: "%-d" }}
-{% case m %}
-  {% when '1' %}Janeiro
-  {% when '2' %}Fevereiro
-  {% when '3' %}Março
-  {% when '4' %}Abril
-  {% when '5' %}Maio
-  {% when '6' %}Junho
-  {% when '7' %}Julho
-  {% when '8' %}Agosto
-  {% when '9' %}Setembro
-  {% when '10' %}Outubro
-  {% when '11' %}Novembro
-  {% when '12' %}Dezembro
-{% endcase %}
-{{ include.date | date: "%Y" }}
-
 <!-- _layouts/distill.html -->
 <html>
   <head>
@@ -41,7 +23,7 @@
     <script async type="text/json">{
       "title": "{{ page.title }}",
       "description": "{{ page.description }}",
-      "published": "{{ page.date | date: '%d/%m/%Y' }}",
+      "published": "{{ date-pt | date: '%d/%m/%Y' }}",
       "authors": [
         {% for author in page.authors -%}
         {
