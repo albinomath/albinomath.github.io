@@ -2084,7 +2084,7 @@ d-appendix > distill-appendix {
     return `
   <div class="byline grid">
     <div class="authors-affiliations grid">
-      <h3></h3>
+      <h3>Autoria</h3>
       <h3></h3>
       ${frontMatter.authors.map(author => `
         <p class="author">
