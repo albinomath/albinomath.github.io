@@ -17,13 +17,13 @@
   // See the License for the specific language governing permissions and
   // limitations under the License.
 
-  const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
-  const months = ['Jan.', 'Feb.', 'March', 'April', 'May', 'June', 'July', 'Aug.', 'Sept.', 'Oct.', 'Nov.', 'Dec.'];
+  const days = ['Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sábado'];
+  const months = ['Jan', 'Fev', 'Mar', 'Abr', 'Maio', 'Jun', 'Jul', 'Ago', 'Set', 'Out', 'Nov', 'Dez'];
   const zeroPad = n => n < 10 ? '0' + n : n;
 
   const RFC = function(date) {
     const day = days[date.getDay()].substring(0, 3);
-    const paddedDate = zeroPad(date.getDate());
+    const paddedDate = zeroPad(dAuthorsate.getDate());
     const month = months[date.getMonth()].substring(0,3);
     const year = date.getFullYear().toString();
     const hours = date.getUTCHours().toString();
@@ -2084,8 +2084,8 @@ d-appendix > distill-appendix {
     return `
   <div class="byline grid">
     <div class="authors-affiliations grid">
-      <h3>Authors</h3>
-      <h3>Affiliations</h3>
+      <h3>Autores</h3>
+      <h3>Filiação</h3>
       ${frontMatter.authors.map(author => `
         <p class="author">
           ${author.personalURL ? `
@@ -2100,7 +2100,7 @@ d-appendix > distill-appendix {
       `).join('')}
     </div>
     <div>
-      <h3>Published</h3>
+      <h3>Publicado em</h3>
       ${frontMatter.publishedDate ? `
         <p>${frontMatter.publishedMonth} ${frontMatter.publishedDay}, ${frontMatter.publishedYear}</p> ` : `
         <p><em>Not published yet.</em></p>`}
