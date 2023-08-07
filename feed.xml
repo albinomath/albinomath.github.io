@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.matheusalbino.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.matheusalbino.com/" rel="alternate" type="text/html" hreflang="pt" /><updated>2023-08-07T04:35:51+00:00</updated><id>https://www.matheusalbino.com/feed.xml</id><title type="html">blank</title><subtitle>Economista | Demógrafo
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.matheusalbino.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.matheusalbino.com/" rel="alternate" type="text/html" hreflang="pt" /><updated>2023-08-07T04:40:13+00:00</updated><id>https://www.matheusalbino.com/feed.xml</id><title type="html">blank</title><subtitle>Economista | Demógrafo
 </subtitle><entry><title type="html">Em votação histórica, Unicamp aprova as cotas na pós-graduação</title><link href="https://www.matheusalbino.com/blog/cotas/" rel="alternate" type="text/html" title="Em votação histórica, Unicamp aprova as cotas na pós-graduação" /><published>2023-08-02T00:00:00+00:00</published><updated>2023-08-02T00:00:00+00:00</updated><id>https://www.matheusalbino.com/blog/cotas</id><content type="html" xml:base="https://www.matheusalbino.com/blog/cotas/"><![CDATA[<figure>
 
   <picture>
     
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="https://www.unicamp.br/unicamp/sites/default/files/2023-08/Man_20230802_consu_perri_AMP_9156-Capa-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="https://www.unicamp.br/unicamp/sites/default/files/2023-08/Man_20230802_consu_perri_AMP_9156-Capa-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="https://www.unicamp.br/unicamp/sites/default/files/2023-08/Man_20230802_consu_perri_AMP_9156-Capa-1400.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="https://www.matheusalbino.com/assets/img/Consu_Unicamp-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="https://www.matheusalbino.com/assets/img/Consu_Unicamp-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="https://www.matheusalbino.com/assets/img/Consu_Unicamp-1400.webp" />
     
 
     <!-- Fallback to the original file -->
-    <img src="https://www.unicamp.br/unicamp/sites/default/files/2023-08/Man_20230802_consu_perri_AMP_9156-Capa.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="https://www.matheusalbino.com/assets/img/Consu_Unicamp.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
