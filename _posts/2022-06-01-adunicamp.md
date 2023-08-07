@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: distill
 title: Representar nem sempre é dar voz à maioria
 description: APG Unicamp participa da posse da nova diretoria da associação de docentes de Unicamp
 giscus_comments: false
@@ -12,6 +12,9 @@ tag:
 - Ciência e Tecnologia
 - Notas
 category: notas
+authors:
+  - name: Matheus Albino
+    url: "https://matheusalbino.com/"
 ---
 
 Primeiro de junho de 2022. Agradeço o convite para estar nessa cerimônia, e em nome da gestão “Paulo Freire” da
