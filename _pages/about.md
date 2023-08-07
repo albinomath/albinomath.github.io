@@ -6,7 +6,7 @@ subtitle: Economista | Demógrafo
 
 profile:
   align: right
-  image: "https://albinomath.github.io/assets/img/foto-matheus.png"
+  image: foto-urna.png
   image_circular: true # crops the image to make it circular
   address: 
 
