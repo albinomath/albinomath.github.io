@@ -1,7 +1,7 @@
 ---
 layout: distill
-title: três lições da febre amarela em Campinas para a pandemia de Covid-19
-description: O que a história nos ensina? Ela pode nos ensinar? Trago reflexões que tenho feito a partir da pesquisa que desenvolvi sobre a mortalidade em Campinas no século 19.
+title: Três lições da febre amarela em Campinas para a pandemia de Covid-19
+description: O que a história nos ensina? Ela pode nos ensinar? Reflexões a partir da pesquisa que desenvolvi sobre a mortalidade em Campinas no século 19.
 giscus_comments: false
 date: 2021-10-04
 tag:
