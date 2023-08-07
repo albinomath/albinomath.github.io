@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: distill
 title: a revogação do título de doutor honoris causa de Jarbas Passarinho pela Unicamp
 description: Conselho Universitário da Unicamp revogou por unanimidade nesta terça-feira (28/09) o título concedido ao ministro da ditadura Jarbas Passarinho.
 giscus_comments: false
@@ -11,6 +11,9 @@ tag:
 - História
 - Notas
 category: notas
+authors:
+  - name: Matheus Albino
+    url: "https://matheusalbino.com/"
 ---
 
 {% include figure.html path="https://www.matheusalbino.com/assets/img/Jarbas-Passarinho.png" class="img-fluid rounded z-depth-1" zoomable=true %}
