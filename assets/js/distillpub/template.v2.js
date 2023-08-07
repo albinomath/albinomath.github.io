@@ -4350,7 +4350,7 @@ d-footnote-list a.footnote-backlink {
 
 </style>
 
-<h3>Notas</h3>
+<h3>Footnotes</h3>
 <ol></ol>
 `, false);
 
