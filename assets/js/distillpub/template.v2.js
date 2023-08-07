@@ -4565,7 +4565,7 @@ d-references {
 </style>
 `, false);
 
-  class Referências extends T$8(HTMLElement) {
+  class References extends T$8(HTMLElement) {
 
   }
 
