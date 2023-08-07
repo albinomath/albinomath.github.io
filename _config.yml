@@ -74,7 +74,7 @@ twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: albinomatheus # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: bK7hEIYAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0003-3102-7663 # your ORCID ID
@@ -147,7 +147,7 @@ giscus:
   lang: pt
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: matheusalbino13 # put your disqus shortname
+disqus_shortname: matheusalbino1 # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
