@@ -1,7 +1,7 @@
 ---
 layout: post
-title: saudação à nova gestão da ADunicamp
-description: representando a gestão "Paulo Freire" no evento de posse da nova diretoria da associação de docentes
+title: Representar nem sempre é dar voz à maioria
+description: APG Unicamp participa da posse da nova diretoria da associação de docentes de Unicamp
 giscus_comments: false
 date: 2022-06-01
 tag:
