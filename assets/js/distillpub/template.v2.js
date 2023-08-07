@@ -4350,7 +4350,7 @@ d-footnote-list a.footnote-backlink {
 
 </style>
 
-<h3>Footnotes</h3>
+<h3>Notas</h3>
 <ol></ol>
 `, false);
 
@@ -4565,7 +4565,7 @@ d-references {
 </style>
 `, false);
 
-  class References extends T$8(HTMLElement) {
+  class Referências extends T$8(HTMLElement) {
 
   }
 
