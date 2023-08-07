@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: distill
 title: três lições da febre amarela em Campinas para a pandemia de Covid-19
 description: O que a história nos ensina? Ela pode nos ensinar? Trago reflexões que tenho feito a partir da pesquisa que desenvolvi sobre a mortalidade em Campinas no século 19.
 giscus_comments: false
@@ -11,6 +11,9 @@ tag:
 - Covid-19
 - História
 category: pesquisa
+authors:
+  - name: Matheus Albino
+    url: "https://matheusalbino.com/"
 ---
 
 {% include figure.html path="https://www.matheusalbino.com/assets/img/Cemiterio-Vila-Formosa.png" class="img-fluid rounded z-depth-1" zoomable=true %}
