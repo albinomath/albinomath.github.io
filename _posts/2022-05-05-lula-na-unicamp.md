@@ -1,7 +1,7 @@
 ---
-layout: post
-title: mensagem da pós-graduação ao ex-presidente Lula na Unicamp
-description: Recebendo o ex-presidente Luiz Inácio Lula da Silva, a Unicamp reuniu mais de 10 mil pessoas no Teatro de Arena do Ciclo Básico
+layout: distill
+title: O que os pós-graduandos disseram para o presidente Lula na Unicamp
+description: Unicamp reune mais de 10 mil pessoas no Teatro de Arena do Ciclo Básico para receber Lula
 giscus_comments: false
 date: 2022-05-05
 tag:
@@ -10,9 +10,12 @@ tag:
 - Educação
 - Notas
 category: notas
+authors:
+  - name: Matheus Albino
+    url: "https://matheusalbino.com/"
 ---
 
-5 de maio de 2022. A APG Unicamp junto às demais entidades representativas da comunidade universitária (DCE, ADUnicamp e STU) receberam a aula magna com o ex-presidente Luiz Inácio Lula da Silva, em um evento que reuniu cerca de 10 mil pessoas no Teatro de Arena do Ciclo Básico da universidade. O evento também contou com a participação do ex-ministro da Educação Fernando Haddad, diversas autoridades e representantes de movimentos sociais. 
+A APG Unicamp junto às demais entidades representativas da comunidade universitária (DCE, ADUnicamp e STU) receberam a aula magna com o ex-presidente Luiz Inácio Lula da Silva, em um evento que reuniu cerca de 10 mil pessoas no Teatro de Arena do Ciclo Básico da universidade. O evento também contou com a participação do ex-ministro da Educação Fernando Haddad, diversas autoridades e representantes de movimentos sociais. 
 
 A aula magna foi precedida por um Ato Cultural em Defesa da Democracia, que envolveu coletivos, entidades da Unicamp, movimentos sociais de Campinas e do Estado de São Paulo e representações das entidades representativas nacionais como a União Nacional dos Estudantes (UNE) e a Associação Nacional de Pós-Graduandos (ANPG). O evento com a presença do ex-presidente foi mediado por Larissa Fontana e Bruna Garcia, fundadoras da APG Unicamp e representantes da ANPG. 
 
