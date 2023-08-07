@@ -1,6 +1,6 @@
 ---
-layout: post
-title: convite | Pesquisadores negras e negros para a reconstrução do Brasil
+layout: distill
+title: Convite | Pesquisadores negras e negros para a reconstrução do Brasil
 description: chamada para trabalhos e pareceristas da Revista da ANPG
 giscus_comments: false
 date: 2023-05-23
@@ -10,6 +10,9 @@ tag:
 - Ciência e Tecnologia
 - Notas
 category: pesquisa
+authors:
+  - name: Matheus Albino
+    url: "https://matheusalbino.com/"
 ---
 
 Com a retomada dos trabalhos da *Revista da ANPG – Ciência, Tecnologia e Políticas Educacionais*, informamos que está aberta a chamada para Edição Especial *Pesquisadoras negras e negros para a reconstrução do Brasil* com objetivo de destacar a produção de pesquisadores negras e negros de todas as áreas do conhecimento. <span class="evidence">Convidamos pesquisadores de todas as áreas do conhecimento que tenham interesse e disponibilidade para colaborar, seja como autores ou como avaliadores, contribuindo com o processo de divulgação da produção na pós-graduação</span>. A edição anterior da Revista, [Mulheres e Mães Pesquisadoras em Tempos de Covid-19](https://www.anpg.org.br/08/07/2022/mulheres-cientistas-e-a-pandemia/), pode ser encontrada no site da ANPG. 
