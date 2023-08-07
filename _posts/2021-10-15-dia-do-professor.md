@@ -1,5 +1,5 @@
 ---
-title: "dia do professor: a educação e a ciência vão recuperar nosso brilho"
+title: "Dia do professor: a educação e a ciência vão recuperar nosso brilho"
 layout: post
 date: 2021-10-15 12:00
 image: https://www.matheusalbino.com/assets/images/Assembleia-Unicamp.jpg
@@ -9,9 +9,10 @@ tag:
 - Ciência e Tecnologia
 - Educação
 - Notas
-
 category: notas
-author: Matheus Albino
+authors:
+  - name: Matheus Albino
+    url: "https://matheusalbino.com/"
 description: a educação e as ciências têm o poder de recuperar o brilho das pessoas nos momentos mais difíceis, exigem a esperança e a convicção de que a mudança é possível.
 ---
 
