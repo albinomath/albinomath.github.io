@@ -5,9 +5,9 @@ permalink: /
 subtitle: Economista | Demógrafo
 
 profile:
-  align: 
-  image: 
-  image_circular:  # crops the image to make it circular
+  align: right
+  image: "https://albinomath.github.io/assets/img/foto-matheus.png"
+  image_circular: true # crops the image to make it circular
   address: 
 
 news: false  # includes a list of news items
