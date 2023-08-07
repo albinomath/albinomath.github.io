@@ -2309,7 +2309,7 @@ d-citation-list .references .title {
 
         const heading = dom.createElement('h3');
         heading.id = 'references';
-        heading.textContent = 'References';
+        heading.textContent = 'Referências';
         element.appendChild(heading);
 
         list = dom.createElement('ol');
