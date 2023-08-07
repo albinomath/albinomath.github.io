@@ -1,6 +1,6 @@
 ---
-title: "resumo | relevando a doença e a morte: morbidade e mortalidade em Campinas, 1875-1900"
-layout: post
+title: "Resumo | Relevando a doença e a morte: morbidade e mortalidade em Campinas, 1875-1900"
+layout: distill
 date: 2020-02-20 14:00
 tag:
 - Santa Casa de Misericórdia
@@ -11,7 +11,9 @@ tag:
 - História
 star: false
 category: pesquisa
-author: Matheus Albino
+authors:
+  - name: Matheus Albino
+    url: "https://matheusalbino.com/"
 description: investiguei aspectos da mortalidade e da morbidade da população escravizada e livre, nacional e estrangeira em Campinas no final do século XIX.
 ---
 
