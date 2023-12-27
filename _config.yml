@@ -7,10 +7,9 @@ first_name: Matheus
 middle_name: 
 last_name: Albino
 email: albino@alumni.usp.br
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Conheça o trabalho e pesquisa de Matheus Albino, economista e demógrafo
+description: Conheça o trabalho e pesquisa de Matheus Albino, economista e demógrafo
 footer_text: 
-keywords:   # add your own keywords or leave empty
+keywords: economia, demografia, história econômica  # add your own keywords or leave empty
 
 lang: pt # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon/favicon-16x16.png    # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
