@@ -9,14 +9,14 @@
   contents:
     - title: Doutorado em Demografia
       institution: Universidade Estadual de Campinas - Unicamp
-      year: 2020
+      year: 2020 - 2024
       description:
         - Agência financiadora - CNPq
         - Orientadora Dra. Ana Silvia Volpi Scott
         - Coorientadora Dra. Maisa Faleiros Cunha
     - title: Graduação em Ciências Contábeis
-      institution: Universidade Pitágoras Unopar
-      year: 2021
+      institution: Unopar
+      year: 2021 - 2023
     - title: Mestrado em Demografia
       institution: Universidade Estadual de Campinas - Unicamp
       year: 2018 - 2020
@@ -37,12 +37,20 @@
       institution: Universidade Estadual de Campinas - Unicamp
       year: 2022
       description:
-        - Curso de verão ministrado pelo Prof. Dr. Paulo de Martino Jannuzzi
+        - Curso ministrado pelo Prof. Dr. Paulo de Martino Jannuzzi
         - Aplicação do Mapa de Processos e Resultados para implementação de uma política de Cotas Étnico‐Raciais na Pós‐Graduação da Unicamp
 
 - title: Experiência
   type: time_table
   contents:
+      - title: Analista financeiro
+      institution: Sobral & Stoco Sociedade de Advogados
+      year: 2024
+      description:
+        - Elaboração de políticas acadêmicas e científicas
+        - Formulação de políticas de acesso e permanência
+        - Divulgação e difusão da Revista da ANPG
+
     - title: Diretor Acadêmico e Científico
       institution: Associação Nacional de Pós‐Graduandos (ANPG)
       year: 2022 - 2024
@@ -76,6 +84,12 @@
 - title: Atividades de Representação
   type: time_table
   contents:
+      - title: Coordenador da Red Demografía Histórica e Historia de La Población
+      institution: Asociación Latinoamericana de Población (ALAP)
+      year: 2022 - 2024
+      description: 
+        - Espaço de colaboração de pesquisadores latino-americanos que estudam as características demográficas de populações do passado.
+        
     - title: Representante da Sociedade Civil
       institution: Conselho Municipal de Política Cultural de Campinas
       year: 2021 - 2022
