@@ -47,9 +47,7 @@
       institution: Sobral & Stoco Sociedade de Advogados
       year: 2024
       description:
-        - Elaboração de políticas acadêmicas e científicas
-        - Formulação de políticas de acesso e permanência
-        - Divulgação e difusão da Revista da ANPG
+        - Serviços de assessoria financeira e administrativa ao escritório Sobral & Stoco Sociedade de Advogados
 
     - title: Diretor Acadêmico e Científico
       institution: Associação Nacional de Pós‐Graduandos (ANPG)
@@ -84,7 +82,7 @@
 - title: Atividades de Representação
   type: time_table
   contents:
-      - title: Coordenador da Red Demografía Histórica e Historia de La Población
+    - title: Coordenador da Red Demografía Histórica e Historia de La Población
       institution: Asociación Latinoamericana de Población (ALAP)
       year: 2022 - 2024
       description: 
@@ -135,7 +133,7 @@
     - title: Softwares
       items: 
         - Experiência em análise de dados envolvendo linguagem R (8 anos), Stata (3 anos) e SQL (1 ano)
-        - Experiências com editoração de textos e criação de páginas envolvendo LaTeX (8 anos), Markdown (5 anos), Wordpress, Adobe InDesign
+        - Experiências com editoração de textos e criação de páginas estáticas e relatórios dinâmicos envolvendo LaTeX (8 anos), Markdown (5 anos) e Wordpress
     - title: Idiomas
       items:
         - Português (Nativo)
