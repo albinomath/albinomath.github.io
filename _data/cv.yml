@@ -14,9 +14,6 @@
         - Agência financiadora - CNPq
         - Orientadora Dra. Ana Silvia Volpi Scott
         - Coorientadora Dra. Maisa Faleiros Cunha
-    - title: Graduação em Ciências Contábeis
-      institution: Unopar
-      year: 2021 - 2023
     - title: Mestrado em Demografia
       institution: Universidade Estadual de Campinas - Unicamp
       year: 2018 - 2020
@@ -33,6 +30,9 @@
 - title: Formação complementar
   type: time_table
   contents:
+    - title: Graduação em Ciências Contábeis
+      institution: Unopar
+      year: 2021 - 2023
     - title: Tópicos Avançados em Demografia - Avaliação de Políticas Públicas
       institution: Universidade Estadual de Campinas - Unicamp
       year: 2022
@@ -48,6 +48,12 @@
       year: 2022 - 2024
       description:
         - Serviços de assessoria financeira ao escritório Sobral & Stoco Sociedade de Advogados
+
+    - title: Orientador
+      institution: MBA USP/Esalq
+      year: 2024
+      description:
+        - Orientador credenciado no MBA em Finanças e Controladoria e no MBA em Data Science e Analytics
 
     - title: Diretor Acadêmico e Científico
       institution: Associação Nacional de Pós‐Graduandos (ANPG)
@@ -82,6 +88,12 @@
 - title: Atividades de Representação
   type: time_table
   contents:
+    - title: Coordenador da Rede de Pesquisadores
+      institution: Asociación Latinoamericana de Población (ALAP)
+      year: 2022 - 2024
+      description: 
+        - Red Demografía Histórica e Historia de La Población
+
     - title: Representante da Sociedade Civil
       institution: Conselho Municipal de Política Cultural de Campinas
       year: 2021 - 2022
@@ -127,7 +139,7 @@
     - title: Softwares
       items: 
         - Experiência em análise de dados envolvendo linguagem R (8 anos), Stata (3 anos) e SQL (1 ano)
-        - Experiências com editoração de textos e criação de páginas envolvendo LaTeX (8 anos), Markdown (5 anos), Wordpress, Adobe InDesign
+        - Experiências com editoração de textos e criação de páginas estáticas e relatórios dinâmicos envolvendo LaTeX (8 anos), Markdown (5 anos) e Wordpress.
     - title: Idiomas
       items:
         - Português (Nativo)
