@@ -2,7 +2,7 @@
 layout: about
 title: sobre
 permalink: /
-subtitle: Conheça o trabalho e a pesquisa de Matheus Albino
+subtitle: Conheça o trabalho e a pesquisa
 
 profile:
   align: 
